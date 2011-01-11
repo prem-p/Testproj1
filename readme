@@ -1,5 +1,9 @@
 puts "Happy new year"
 
+ HEAD
 change 1
 
 change 5
+
+change 2
+ newbranch
